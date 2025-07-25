@@ -26,3 +26,8 @@ Collection of diagnostic indicators reported in paper
 
 ###Graphs
 Graphs generated based on Diagnostic indicators
+
+
+###GGplot Figures
+1. Open R project 
+2. Run corresponding files (Results are already pre-stored)
